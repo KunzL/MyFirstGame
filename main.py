@@ -1,0 +1,1 @@
+# My First Game# Game idea: answer to random questions. You have 4 possibilities.import pygameif __name__ == "__main__":   print("im a bg")
